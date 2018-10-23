@@ -1,1 +1,1 @@
-# PReo-PVS
+Formalization of Probabilistic Reo Connectors in PVS
